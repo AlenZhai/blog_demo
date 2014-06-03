@@ -1,0 +1,14 @@
+#title{
+text-align:center;
+font-weight:bold;
+height:50px;
+width:100%
+}
+#body{
+font-size:10pt;
+font-style:normal
+}
+#date{
+text-align:right;
+font-style:italic
+}
